@@ -1,0 +1,11 @@
+.recouces__logo {
+  width: 270px;
+  min-height: 38px;
+  display: flex;
+  justify-content: center;
+  transition: opacity 1s ease-in-out;
+}
+
+.recources__logo:hover {
+  opacity: 0.5;
+}
